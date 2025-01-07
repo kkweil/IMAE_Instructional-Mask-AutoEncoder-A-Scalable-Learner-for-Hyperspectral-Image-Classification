@@ -10,7 +10,7 @@ If you have any questions or require additional information, please do not hesit
 Moreover, if you find our code meaningful or helpful, we warmly invite researchers to cite our work using the following BibTeX entry:
 
 
-''' python
+```python
 @article{kong2023instructional,
   title={Instructional Mask Autoencoder: A Scalable Learner for Hyperspectral Image Classification},
   author={Kong, Weili and Liu, Baisen and Bi, Xiaojun and Pei, Jiaming and Chen, Zheng},
@@ -18,5 +18,5 @@ Moreover, if you find our code meaningful or helpful, we warmly invite researche
   year={2023},
   publisher={IEEE}
 }
-'''
+```
 
